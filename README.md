@@ -1,2 +1,0 @@
-# PowerofPlots
-Matplotlib Analysis
